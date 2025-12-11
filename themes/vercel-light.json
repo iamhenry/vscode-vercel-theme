@@ -472,13 +472,13 @@
       "scope": "markup.bold",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#171717"
+        "foreground": "#7200c4"
       }
     },
     {
       "scope": "markup.raw",
       "settings": {
-        "foreground": "#b32c62"
+        "foreground": "#bbbbbb"
       }
     },
     {
