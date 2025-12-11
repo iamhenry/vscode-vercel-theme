@@ -41,7 +41,7 @@
     "editor.findMatchHighlightBackground": "#9e520022",
     "editor.focusedStackFrameHighlightBackground": "#cccccc",
     "editor.foldBackground": "#0000001a",
-    "editor.foreground": "#171717",
+    "editor.foreground": "#696969",
     "editor.inactiveSelectionBackground": "#0000001a",
     "editor.lineHighlightBackground": "#0000001a",
     "editor.linkedEditingBackground": "#0000001a",
@@ -217,7 +217,7 @@
         "string.comment"
       ],
       "settings": {
-        "foreground": "#bbbbbb"
+        "foreground": "#9d9d9d"
       }
     },
     {
@@ -472,7 +472,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#b32c62"
+        "foreground": "#ed3e85"
       }
     },
     {
@@ -492,7 +492,7 @@
       "scope": "markup.bold",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#7200c4"
+        "foreground": "#007acc"
       }
     },
     {
@@ -507,13 +507,13 @@
         "meta.embedded.block"
       ],
       "settings": {
-        "foreground": "#bbbbbb"
+        "foreground": "#9d9d9d"
       }
     },
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#b32c62"
+        "foreground": "#ed3e85"
       }
     },
     {
@@ -571,7 +571,7 @@
       "scope": "meta.separator",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#005ee9"
+        "foreground": "#7200c4"
       }
     },
     {
@@ -612,7 +612,7 @@
       ],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#b32c62"
+        "foreground": "#ed3e85"
       }
     },
     {
